@@ -1,0 +1,13 @@
+.button {
+  background-color: transparent;
+  border: none;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+.bright-btn {
+  border-bottom: 1px solid #2563eb;
+}
